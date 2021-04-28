@@ -1,4 +1,4 @@
-package javabase.object.oriented.programming;
+package javabase.oop;
 /**
  * @ClassName：ChangeMethods
  * @description: 可变形参

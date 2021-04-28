@@ -1,4 +1,4 @@
-package javabase.Objecttest;
+package javabase.object;
 /**
  * @ClassName：ObjectTest
  * @description:

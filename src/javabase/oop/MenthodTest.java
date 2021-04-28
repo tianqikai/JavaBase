@@ -1,4 +1,4 @@
-package javabase.object.oriented.programming;
+package javabase.oop;
 /**
  * @ClassName：MenthodTest
  * @description: 方法调用过程

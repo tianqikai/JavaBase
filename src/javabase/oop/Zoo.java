@@ -1,4 +1,4 @@
-package javabase.object.oriented.programming;
+package javabase.oop;
 
 import javabase.pojo.Animal;
 import javabase.pojo.Person;

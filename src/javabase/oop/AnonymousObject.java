@@ -1,4 +1,4 @@
-package javabase.object.oriented.programming;
+package javabase.oop;
 
 import javabase.pojo.Person;
 import java.math.BigDecimal;

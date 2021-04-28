@@ -1,4 +1,4 @@
-package javabase.Objecttest;
+package javabase.object;
 
 
 import javabase.pojo.Animal;
