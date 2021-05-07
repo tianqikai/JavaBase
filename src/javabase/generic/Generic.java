@@ -1,4 +1,4 @@
-package javabase.block.generic;
+package javabase.generic;
 
 import javabase.pojo.Person;
 
