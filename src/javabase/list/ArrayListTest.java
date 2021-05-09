@@ -31,6 +31,7 @@ public class ArrayListTest {
     }
     private static void updateList(List list) {
         list.remove(2);//按下标remove 所以3被移除
+        list.remove(new Integer("2"));//移出value值是2这一项
     }
 }
 
