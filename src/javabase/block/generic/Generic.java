@@ -22,6 +22,15 @@ public class Generic {
         person.name="111";
         person.age=11;
         list3.add(person);
+        for (Integer o : list1) {
+            System.out.println(o);
+        }
+        for (String o : list2) {
+            System.out.println(o);
+        }
+        for (Person o : list3) {
+            System.out.println(o.toString());
+        }
     }
 
     private static void objectMethod() {
