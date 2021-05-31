@@ -15,10 +15,17 @@ public class Person{
     //是否是男性
     public boolean isMale;
 
-//    public Person(String name,int age){
-//        this.name=name;
-//        this.age=age;
-//    }
+    public Person(String name) {
+        this.name = name;
+    }
+
+    public Person() {
+    }
+
+    public Person(String name, int age){
+        this.name=name;
+        this.age=age;
+    }
     public int getAge() {
         return age;
     }

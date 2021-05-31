@@ -19,13 +19,14 @@ public class Maobao {
 //        }
         int[] array={1,2,5,3,4,6,7,9,80,12,34};
 //        System.out.println("数组信息："+ );
-        System.out.println("---------------------------------------------");
         int min=0;
         for (int i=0;i<array.length;i++){
             min=array[i];
-            for (int j=i;j<array.length;j++){
+            for (int j=i+1;j<array.length;j++){
                 if(min>array[j]){
+                    int a=min;
                     min=array[j];
+                    array[j]=a;
                 }else{
                     continue;
                 }
